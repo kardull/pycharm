@@ -1,9 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Java">
-        <added pattern="org.jsoup.Connection.header(name,value)" />
-      </blacklist>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
     </blacklists>
   </component>
 </application>
