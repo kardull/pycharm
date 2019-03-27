@@ -4,6 +4,6 @@
     <option name="FONT_FAMILY" value="D2Coding" />
   </component>
   <component name="EditorSettings">
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>
